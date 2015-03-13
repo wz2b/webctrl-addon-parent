@@ -1,0 +1,1 @@
+Maven parent pom, used to import base dependencies  Maven-based add-ons for Automated Logic Controls WebCTRL product.
